@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://next-weekend-git-semanticprojectiondemo-lucianfelixs-projects.vercel.app/
+    url: https://next-weekend-git-semanticprojectiondemo-lucianfelixs-projects.vercel.app/projection/
     type: markup
     suffix: ".md"
