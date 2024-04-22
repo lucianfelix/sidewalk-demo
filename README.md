@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--sidewalk-demo--lucianfelix.hlx.page/page1
+- Live: https://main--sidewalk-demo--lucianfelix.hlx.live/page1
 
 ## Installation
 
