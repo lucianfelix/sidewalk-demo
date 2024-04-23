@@ -1,4 +1,4 @@
-.Adventure > ul {
+.adventure > ul {
 
   list-style: none;
   margin: 0;
@@ -8,46 +8,46 @@
   grid-gap: 5px;
 }
 
-.Adventure {
+.adventure {
   border: 10px solid yellow;
   filter: drop-shadow(15px 7px 17px #9f9f9f);
   background-color: whitesmoke;
   padding: 10px;
 }
 
-.Adventure .adventure-title {
+.adventure .adventure-title {
   font-size: 1.5em;
   font-weight: bold;
   text-align: center;
 }
 
-.Adventure > ul > li {
+.adventure > ul > li {
   border: 1px solid var(--dark-color);
   background-color: var(--background-color);
   display: flex;
 }
 
-.Adventure .adventure-field-name {
+.adventure .adventure-field-name {
   /*margin: 16px;*/
   font-family: "Andale Mono", monospace;
   display: inline-block;
 }
 
-.Adventure .adventure-field-value {
+.adventure .adventure-field-value {
   display: inline-block;
   margin-left: 10px;
 }
 
-/*.Adventure .adventure-field-value::before {*/
+/*.adventure .adventure-field-value::before {*/
 /*  content: ": ";*/
 /*  display: inline-block;*/
 /*}*/
 
-/*.Adventure .cards-card-body > *:first-child {*/
+/*.adventure .cards-card-body > *:first-child {*/
 /*  margin-top: 0;*/
 /*}*/
 
-.Adventure > ul > li img {
+.adventure > ul > li img {
   width: 100%;
   aspect-ratio: 4 / 3;
   object-fit: cover;
