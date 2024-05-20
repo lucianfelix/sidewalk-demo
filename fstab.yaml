@@ -1,6 +1,6 @@
 mountpoints:
   /:
 #    url: https://next-weekend-git-semanticprojectiondemo-lucianfelixs-projects.vercel.app/projection/
-    url: https://sidewalk.live/projection-hlx/
+    url: https://sidewalk.live/projection-hlx/aem-sites-engineering/wknd/gw/eds/
     type: markup
     suffix: ".md"
